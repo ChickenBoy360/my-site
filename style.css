@@ -185,6 +185,8 @@ body {
 .user-image img {
   width: 600px;
   height: 400px;
+  border-radius: 5%;
+  margin-top: 20px;
   object-fit: cover;
 }
 
@@ -207,6 +209,7 @@ body {
 }
 
 .skills {
+  margin-top: 20px;
   margin-bottom: 0;
 }
 
@@ -284,6 +287,7 @@ body {
 .project-image img {
   width: 448px;
   height: 256px;
+  border-radius: 5%;
   object-fit: cover;
 }
 
