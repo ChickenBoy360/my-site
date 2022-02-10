@@ -184,7 +184,7 @@ body {
 
 .user-image img {
   width: 600px;
-  height: 400px;
+  height: 356px;
   border-radius: 5%;
   margin-top: 20px;
   object-fit: cover;
@@ -209,16 +209,13 @@ body {
 }
 
 .skills {
-  margin-top: 20px;
+  margin-top: 75px;
   margin-bottom: 0;
 }
 
-.skills h3 {
-  margin-bottom: 40px;
-}
 
 .skills-list {
-  margin: 0;
+  margin-top: 0px;
   padding: 0;
 }
 
@@ -262,6 +259,7 @@ body {
 .portfolio {
   margin: 0;
   padding-bottom: 160px;
+  line-height: 26px;
 }
 
 .projects {
@@ -285,18 +283,15 @@ body {
 }
 
 .project-image img {
-  width: 448px;
-  height: 256px;
+  width: 600px;
+  height: 356px;
   border-radius: 5%;
   object-fit: cover;
+  margin-top: 20px;
 }
 
 .projects p {
   margin: 0 0 32px;
-}
-
-.blog-start {
-  margin-top: 15px;
 }
 
 .button {
